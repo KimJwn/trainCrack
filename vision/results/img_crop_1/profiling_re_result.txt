@@ -1,0 +1,757 @@
+[1]
+length: 2.82843
+real_length: 0.18660
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 8.00000
+real_average_width: 0.52780
+[2]
+length: 4.82843
+real_length: 0.31855
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[3]
+length: 6.24264
+real_length: 0.41186
+max_width: 2.00000
+real_max_width: 0.13195
+average_width: 1.50000
+real_average_width: 0.09896
+[4]
+length: 11.48528
+real_length: 0.75774
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 4.12500
+real_average_width: 0.27215
+[5]
+length: 1.41421
+real_length: 0.09330
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[6]
+length: 9.24264
+real_length: 0.60978
+max_width: 3.00000
+real_max_width: 0.19792
+average_width: 3.00000
+real_average_width: 0.19792
+[7]
+length: 17.31371
+real_length: 1.14227
+max_width: 11.00000
+real_max_width: 0.72572
+average_width: 3.88889
+real_average_width: 0.25657
+[8]
+length: 9.41421
+real_length: 0.62110
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 2.66667
+real_average_width: 0.17593
+[9]
+length: 16.72792
+real_length: 1.10362
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 2.58333
+real_average_width: 0.17043
+[10]
+length: 44.14214
+real_length: 2.91226
+max_width: 12.00000
+real_max_width: 0.79170
+average_width: 6.62500
+real_average_width: 0.43708
+[11]
+length: 9.82843
+real_length: 0.64843
+max_width: 13.00000
+real_max_width: 0.85767
+average_width: 5.85714
+real_average_width: 0.38642
+[12]
+length: 1.41421
+real_length: 0.09330
+max_width: 4.00000
+real_max_width: 0.26390
+average_width: 4.00000
+real_average_width: 0.26390
+[13]
+length: 6.82843
+real_length: 0.45050
+max_width: 13.00000
+real_max_width: 0.85767
+average_width: 4.60000
+real_average_width: 0.30348
+[14]
+length: 15.07107
+real_length: 0.99431
+max_width: 7.00000
+real_max_width: 0.46182
+average_width: 3.69231
+real_average_width: 0.24360
+[15]
+length: 1.41421
+real_length: 0.09330
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 6.00000
+real_average_width: 0.39585
+[16]
+length: 4.24264
+real_length: 0.27991
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 5.00000
+real_average_width: 0.32987
+[17]
+length: 2.41421
+real_length: 0.15928
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[18]
+length: 1.41421
+real_length: 0.09330
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[19]
+length: 1.41421
+real_length: 0.09330
+max_width: 3.00000
+real_max_width: 0.19792
+average_width: 3.00000
+real_average_width: 0.19792
+[20]
+length: 5.00000
+real_length: 0.32987
+max_width: 14.00000
+real_max_width: 0.92365
+average_width: 10.33333
+real_average_width: 0.68174
+[21]
+length: 28.31371
+real_length: 1.86799
+max_width: 11.00000
+real_max_width: 0.72572
+average_width: 5.62500
+real_average_width: 0.37111
+[22]
+length: 9.07107
+real_length: 0.59846
+max_width: 9.00000
+real_max_width: 0.59377
+average_width: 4.16667
+real_average_width: 0.27489
+[23]
+length: 27.72792
+real_length: 1.82934
+max_width: 10.00000
+real_max_width: 0.65975
+average_width: 4.04348
+real_average_width: 0.26677
+[24]
+length: 5.82843
+real_length: 0.38453
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 4.00000
+real_average_width: 0.26390
+[25]
+length: 4.82843
+real_length: 0.31855
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 3.66667
+real_average_width: 0.24191
+[26]
+length: 4.00000
+real_length: 0.26390
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 4.00000
+real_average_width: 0.26390
+[27]
+length: 9.65685
+real_length: 0.63711
+max_width: 3.00000
+real_max_width: 0.19792
+average_width: 2.16667
+real_average_width: 0.14295
+[28]
+length: 2.82843
+real_length: 0.18660
+max_width: 5.00000
+real_max_width: 0.32987
+average_width: 5.00000
+real_average_width: 0.32987
+[29]
+length: 8.65685
+real_length: 0.57113
+max_width: 3.00000
+real_max_width: 0.19792
+average_width: 1.66667
+real_average_width: 0.10996
+[30]
+length: 2.82843
+real_length: 0.18660
+max_width: 3.00000
+real_max_width: 0.19792
+average_width: 2.50000
+real_average_width: 0.16494
+[31]
+length: 82.28427
+real_length: 5.42868
+max_width: 11.00000
+real_max_width: 0.72572
+average_width: 5.44000
+real_average_width: 0.35890
+[32]
+length: 5.65685
+real_length: 0.37321
+max_width: 11.00000
+real_max_width: 0.72572
+average_width: 9.66667
+real_average_width: 0.63776
+[33]
+length: 60.69848
+real_length: 4.00456
+max_width: 10.00000
+real_max_width: 0.65975
+average_width: 5.25000
+real_average_width: 0.34637
+[34]
+length: 4.24264
+real_length: 0.27991
+max_width: 7.00000
+real_max_width: 0.46182
+average_width: 7.00000
+real_average_width: 0.46182
+[35]
+length: 3.82843
+real_length: 0.25258
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 6.00000
+real_average_width: 0.39585
+[36]
+length: 5.65685
+real_length: 0.37321
+max_width: 10.00000
+real_max_width: 0.65975
+average_width: 7.66667
+real_average_width: 0.50581
+[37]
+length: 32.55635
+real_length: 2.14790
+max_width: 9.00000
+real_max_width: 0.59377
+average_width: 4.07407
+real_average_width: 0.26879
+[38]
+length: 77.08326
+real_length: 5.08554
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 3.88710
+real_average_width: 0.25645
+[39]
+length: 6.24264
+real_length: 0.41186
+max_width: 3.00000
+real_max_width: 0.19792
+average_width: 1.75000
+real_average_width: 0.11546
+[40]
+length: 12.07107
+real_length: 0.79638
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 3.75000
+real_average_width: 0.24741
+[41]
+length: 6.65685
+real_length: 0.43918
+max_width: 9.00000
+real_max_width: 0.59377
+average_width: 4.60000
+real_average_width: 0.30348
+[42]
+length: 5.24264
+real_length: 0.34588
+max_width: 4.00000
+real_max_width: 0.26390
+average_width: 3.00000
+real_average_width: 0.19792
+[43]
+length: 10.65685
+real_length: 0.70308
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 3.88889
+real_average_width: 0.25657
+[44]
+length: 23.79899
+real_length: 1.57013
+max_width: 7.00000
+real_max_width: 0.46182
+average_width: 4.56250
+real_average_width: 0.30101
+[45]
+length: 19.24264
+real_length: 1.26953
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 6.00000
+real_average_width: 0.39585
+[46]
+length: 6.82843
+real_length: 0.45050
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 6.40000
+real_average_width: 0.42224
+[47]
+length: 4.24264
+real_length: 0.27991
+max_width: 5.00000
+real_max_width: 0.32987
+average_width: 4.00000
+real_average_width: 0.26390
+[48]
+length: 9.24264
+real_length: 0.60978
+max_width: 28.00000
+real_max_width: 1.84729
+average_width: 7.14286
+real_average_width: 0.47125
+[49]
+length: 8.24264
+real_length: 0.54381
+max_width: 4.00000
+real_max_width: 0.26390
+average_width: 2.00000
+real_average_width: 0.13195
+[50]
+length: 4.24264
+real_length: 0.27991
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 6.00000
+real_average_width: 0.39585
+[51]
+length: 1.41421
+real_length: 0.09330
+max_width: 1.00000
+real_max_width: 0.06597
+average_width: 1.00000
+real_average_width: 0.06597
+[52]
+length: 4.24264
+real_length: 0.27991
+max_width: 13.00000
+real_max_width: 0.85767
+average_width: 6.00000
+real_average_width: 0.39585
+[53]
+length: 2.41421
+real_length: 0.15928
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[54]
+length: 1.41421
+real_length: 0.09330
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[55]
+length: 1.41421
+real_length: 0.09330
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[56]
+length: 9.24264
+real_length: 0.60978
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 2.83333
+real_average_width: 0.18693
+[57]
+length: 7.24264
+real_length: 0.47783
+max_width: 2.00000
+real_max_width: 0.13195
+average_width: 1.33333
+real_average_width: 0.08797
+[58]
+length: 44.69848
+real_length: 2.94897
+max_width: 11.00000
+real_max_width: 0.72572
+average_width: 4.05882
+real_average_width: 0.26778
+[59]
+length: 9.41421
+real_length: 0.62110
+max_width: 11.00000
+real_max_width: 0.72572
+average_width: 6.00000
+real_average_width: 0.39585
+[60]
+length: 14.72792
+real_length: 0.97167
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 3.00000
+real_average_width: 0.19792
+[61]
+length: 46.62742
+real_length: 3.07623
+max_width: 10.00000
+real_max_width: 0.65975
+average_width: 4.82051
+real_average_width: 0.31803
+[62]
+length: 11.07107
+real_length: 0.73041
+max_width: 12.00000
+real_max_width: 0.79170
+average_width: 6.00000
+real_average_width: 0.39585
+[63]
+length: 32.72792
+real_length: 2.15921
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 5.17857
+real_average_width: 0.34165
+[64]
+length: 14.24264
+real_length: 0.93965
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 5.16667
+real_average_width: 0.34087
+[65]
+length: 9.07107
+real_length: 0.59846
+max_width: 4.00000
+real_max_width: 0.26390
+average_width: 2.57143
+real_average_width: 0.16965
+[66]
+length: 39.31371
+real_length: 2.59371
+max_width: 9.00000
+real_max_width: 0.59377
+average_width: 4.70588
+real_average_width: 0.31047
+[67]
+length: 9.07107
+real_length: 0.59846
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 2.83333
+real_average_width: 0.18693
+[68]
+length: 7.82843
+real_length: 0.51648
+max_width: 19.00000
+real_max_width: 1.25352
+average_width: 6.00000
+real_average_width: 0.39585
+[69]
+length: 57.04163
+real_length: 3.76330
+max_width: 10.00000
+real_max_width: 0.65975
+average_width: 5.20408
+real_average_width: 0.34334
+[70]
+length: 4.00000
+real_length: 0.26390
+max_width: 22.00000
+real_max_width: 1.45144
+average_width: 10.25000
+real_average_width: 0.67624
+[71]
+length: 11.48528
+real_length: 0.75774
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 4.00000
+real_average_width: 0.26390
+[72]
+length: 25.38478
+real_length: 1.67475
+max_width: 10.00000
+real_max_width: 0.65975
+average_width: 5.05263
+real_average_width: 0.33335
+[73]
+length: 5.65685
+real_length: 0.37321
+max_width: 11.00000
+real_max_width: 0.72572
+average_width: 7.33333
+real_average_width: 0.48381
+[74]
+length: 2.41421
+real_length: 0.15928
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[75]
+length: 35.04163
+real_length: 2.31186
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 2.96296
+real_average_width: 0.19548
+[76]
+length: 4.24264
+real_length: 0.27991
+max_width: 13.00000
+real_max_width: 0.85767
+average_width: 8.00000
+real_average_width: 0.52780
+[77]
+length: 29.97056
+real_length: 1.97730
+max_width: 10.00000
+real_max_width: 0.65975
+average_width: 4.79167
+real_average_width: 0.31613
+[78]
+length: 5.00000
+real_length: 0.32987
+max_width: 26.00000
+real_max_width: 1.71534
+average_width: 14.66667
+real_average_width: 0.96763
+[79]
+length: 49.21320
+real_length: 3.24683
+max_width: 8.00000
+real_max_width: 0.52780
+average_width: 4.52381
+real_average_width: 0.29846
+[80]
+length: 7.82843
+real_length: 0.51648
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 3.00000
+real_average_width: 0.19792
+[81]
+length: 35.45584
+real_length: 2.33919
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 3.96429
+real_average_width: 0.26154
+[82]
+length: 8.82843
+real_length: 0.58245
+max_width: 5.00000
+real_max_width: 0.32987
+average_width: 3.20000
+real_average_width: 0.21112
+[83]
+length: 23.97056
+real_length: 1.58145
+max_width: 10.00000
+real_max_width: 0.65975
+average_width: 4.11111
+real_average_width: 0.27123
+[84]
+length: 5.65685
+real_length: 0.37321
+max_width: 16.00000
+real_max_width: 1.05560
+average_width: 11.33333
+real_average_width: 0.74771
+[85]
+length: 3.82843
+real_length: 0.25258
+max_width: 7.00000
+real_max_width: 0.46182
+average_width: 5.00000
+real_average_width: 0.32987
+[86]
+length: 5.65685
+real_length: 0.37321
+max_width: 21.00000
+real_max_width: 1.38547
+average_width: 13.66667
+real_average_width: 0.90165
+[87]
+length: 13.72792
+real_length: 0.90570
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 5.66667
+real_average_width: 0.37386
+[88]
+length: 4.24264
+real_length: 0.27991
+max_width: 15.00000
+real_max_width: 0.98962
+average_width: 14.00000
+real_average_width: 0.92365
+[89]
+length: 30.62742
+real_length: 2.02063
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 4.13636
+real_average_width: 0.27290
+[90]
+length: 5.65685
+real_length: 0.37321
+max_width: 29.00000
+real_max_width: 1.91327
+average_width: 20.33333
+real_average_width: 1.34149
+[91]
+length: 17.14214
+real_length: 1.13095
+max_width: 7.00000
+real_max_width: 0.46182
+average_width: 5.50000
+real_average_width: 0.36286
+[92]
+length: 5.65685
+real_length: 0.37321
+max_width: 18.00000
+real_max_width: 1.18754
+average_width: 12.33333
+real_average_width: 0.81369
+[93]
+length: 11.07107
+real_length: 0.73041
+max_width: 18.00000
+real_max_width: 1.18754
+average_width: 7.00000
+real_average_width: 0.46182
+[94]
+length: 3.41421
+real_length: 0.22525
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 4.50000
+real_average_width: 0.29689
+[95]
+length: 18.55635
+real_length: 1.22425
+max_width: 7.00000
+real_max_width: 0.46182
+average_width: 3.61538
+real_average_width: 0.23852
+[96]
+length: 2.82843
+real_length: 0.18660
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[97]
+length: 1.41421
+real_length: 0.09330
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[98]
+length: 16.07107
+real_length: 1.06028
+max_width: 5.00000
+real_max_width: 0.32987
+average_width: 2.50000
+real_average_width: 0.16494
+[99]
+length: 147.85281
+real_length: 9.75454
+max_width: 13.00000
+real_max_width: 0.85767
+average_width: 4.22131
+real_average_width: 0.27850
+[100]
+length: 6.24264
+real_length: 0.41186
+max_width: 5.00000
+real_max_width: 0.32987
+average_width: 3.00000
+real_average_width: 0.19792
+[101]
+length: 105.39697
+real_length: 6.95353
+max_width: 6.00000
+real_max_width: 0.39585
+average_width: 2.25714
+real_average_width: 0.14891
+[102]
+length: 5.41421
+real_length: 0.35720
+max_width: 5.00000
+real_max_width: 0.32987
+average_width: 3.50000
+real_average_width: 0.23091
+[103]
+length: 40.04163
+real_length: 2.64173
+max_width: 5.00000
+real_max_width: 0.32987
+average_width: 2.17857
+real_average_width: 0.14373
+[104]
+length: 2.82843
+real_length: 0.18660
+max_width: 1.00000
+real_max_width: 0.06597
+average_width: 1.00000
+real_average_width: 0.06597
+[105]
+length: 2.00000
+real_length: 0.13195
+max_width: 0.00000
+real_max_width: 0.00000
+average_width: 0.00000
+real_average_width: 0.00000
+[106]
+length: 2.41421
+real_length: 0.15928
+max_width: 2.00000
+real_max_width: 0.13195
+average_width: 1.50000
+real_average_width: 0.09896
+[107]
+length: 3.82843
+real_length: 0.25258
+max_width: 1.00000
+real_max_width: 0.06597
+average_width: 1.00000
+real_average_width: 0.06597
+
+total_length: 1698.42258
+real_total_length: 112.05291
+total_max_width: 29.00000
+real_total_max_width: 1.91327
+total_average_width: 4.52888
+real_total_average_width: 0.29879
+
