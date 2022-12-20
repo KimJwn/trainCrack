@@ -52,62 +52,14 @@ class Color:
         self.first_lowest = self.second = self.third = self.fourth_highest = 0
 
     def dividing_3(self, total_LoW_list, mode='width'):
-        if mode == 'width':
-            sorted_set_list = list(set.union(*map(set, total_LoW_list)))
-        else:     
-            sorted_set_list = list(set(total_LoW_list).union())
-
-        num_divided_by_3 = round(len(sorted_set_list) / 3)
-        # print(len(sorted_set_list),sorted_set_list)
-        num_4th_highest = sorted_set_list[-1]
-        num_3th = sorted_set_list[-1 * num_divided_by_3]
-        num_2nd = sorted_set_list[-2 * num_divided_by_3]
-        num_1st_lowest = sorted_set_list[0]
-
+        ...
         return num_1st_lowest, num_2nd, num_3th, num_4th_highest
 
     def pick_color_paint(self, num_1st_lowest, num_2nd, num_3th, num_4th_highest, crack_width):
-        if num_1st_lowest <= crack_width < num_2nd:
-            match_color = self.NORMAL_COLOR_G
-        elif num_2nd <= crack_width < num_3th:
-            match_color = self.WIDER_COLOR_Y
-        elif num_3th <= crack_width <= num_4th_highest:
-            match_color = self.WIDEST_COLOR_P
-        else : match_color = self.ZERO_COLOR_B
+        ...
         return match_color
 
     def display_crack_color(self, img_thin, segment_list, pixel_list, mode='width', direction_key_list=[[0,0, 'O']]):
         
-        if mode == 'interval_point':
-            for i, j, _ in direction_key_list:
-                cv2.circle(img_thin, (j, i), 10, (0, 255, 0), thickness=3)
-        
-        # num_1st_lowest, num_2nd, num_3th, num_4th_highest = self.dividing_3(pixel_list, mode)
-        num_1st_lowest, num_2nd, num_3th, num_4th_highest = (0, 4, 5, 60)
-
-        total_segment_zip = zip(segment_list, pixel_list)
-
-        for segment_block, crack in total_segment_zip:
-            if mode == 'width':
-                each_segment_block = zip(segment_block, crack)
-                for [row, col], crack_width in each_segment_block:
-                    img_thin[row, col] = self.pick_color_paint(num_1st_lowest, num_2nd, num_3th, num_4th_highest, crack_width)
-            else :
-                for [row, col] in segment_block:
-                    img_thin[row, col] = self.pick_color_paint(num_1st_lowest, num_2nd, num_3th, num_4th_highest, crack)
-
+        ...
         return img_thin
-'''
-    def fill_crack_color_width(self, img, segment_list, pixel_list):
- 
-        num_1st_lowest, num_2nd, num_3th, num_4th_highest = (0, 4, 5, 60)
-        total_segment_zip = zip(segment_list, pixel_list)
-
-        for segment_block, crack in total_segment_zip:
-            each_segment_block = zip(segment_block, crack)
-            for [row, col], crack_width in each_segment_block:
-                match_color = self.pick_color_paint(num_1st_lowest, num_2nd, num_3th, num_4th_highest, crack_width)
-                    
-                img[row, col] = match_color
-
-        return img'''
