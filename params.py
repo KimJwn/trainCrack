@@ -26,17 +26,15 @@ class Lens:
         self.R = 0.045 * ((self.WD) ** 2) - 0.355 * (self.WD) + 0.82 # 감소계수
     
     def real_width(self, pixel_width_list):
-        real_width_list  = [ pixels * self.SPP * self.R for pixels in pixel_width_list]
-        #[math.exp((pixel_num * SPP - (0.28 * WD) - 2.23) / 0.578) for pixel_num in pixel_num_list]
+        real_width_list  = ...
         return real_width_list
 
     def real_max_width(self, max_width_pixel):
-        real_max_width = float(max_width_pixel) * self.SPP * self.R 
-        #[math.exp((pixel_num * SPP - (0.28 * WD) - 2.23) / 0.578) for pixel_num in pixel_num_list]
+        real_max_width = ...
         return real_max_width
 
     def real_length(self, pixel_length_list):
-        real_length_list = [ pixels * self.SPP * self.R for pixels in pixel_length_list]
+        real_length_list = ...
         return real_length_list
 
 
