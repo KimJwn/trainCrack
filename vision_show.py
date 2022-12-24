@@ -53,82 +53,7 @@ lens = pm.Lens(distance)
 
 
 def show_result(title, total_length_list, total_width_list, save_dir, distance, lens):
-    total_max_width_list = []
-    total_average_width_list = []
-
-    for width_block in total_width_list:
-        #pdb.set_trace()
-        # 너비가 0인 경우는 이미지의 외각에서 벌어나는 인덱스 에러 상황뿐이다. 평균을 구하거나 연산 시 제외
-        width_block_zero_removed = [width for width in width_block if width != 0]
-
-        if len(width_block_zero_removed) == 0:
-            max_width = 0
-            average_width = 0
-        else:
-            max_width = max(width_block_zero_removed)
-            average_width = sum(width_block_zero_removed) / len(width_block_zero_removed)
-
-        total_max_width_list.append(max_width)
-        total_average_width_list.append(average_width)
-    #
-
-    total_length = sum(total_length_list)
-    total_max_width = max(total_max_width_list)
-    total_average_width = sum(total_average_width_list) / len(total_average_width_list)
-
-
-    real_total_max_width_list = lens.real_width(total_max_width_list)
-    real_total_average_width_list = lens.real_width(total_average_width_list)
-    real_total_max_width = np.array(real_total_max_width_list).max()
-    real_total_average_width = sum(real_total_average_width_list) / len(real_total_average_width_list)
-
-    real_total_length_list = lens.real_length(total_length_list)
-    real_total_length = sum(real_total_length_list)
-
-    result = zip(total_length_list,
-                 real_total_length_list,
-                 total_max_width_list,
-                 real_total_max_width_list,
-                 total_average_width_list,
-                 real_total_average_width_list)
-
-    with open("{0}{1}_result.txt".format(save_dir, title), 'w') as f:
-        for i, item in enumerate(result, 1):
-            f.write('[{0}]\n'
-                    'length: {1:.5f}\n'
-                    'real_length: {2:.5f}\n'
-                    'max_width: {3:.5f}\n'
-                    'real_max_width: {4:.5f}\n'
-                    'average_width: {5:.5f}\n'
-                    'real_average_width: {6:.5f}\n'
-                    .format(i, item[0], item[1], item[2], item[3], item[4], item[5]))
-        f.write('\n'
-                'total_length: {0:.5f}\n'
-                'real_total_length: {1:.5f}\n'
-                'total_max_width: {2:.5f}\n'
-                'real_total_max_width: {3:.5f}\n'
-                'total_average_width: {4:.5f}\n'
-                'real_total_average_width: {5:.5f}\n'
-                '\n'
-                .format(total_length, real_total_length, total_max_width, real_total_max_width, total_average_width, real_total_average_width))
-
-    with open("{0}{1}_result_summary.csv".format(save_dir, title), 'w') as f:
-        f.write('total_length: {0:.5f}\n'
-                'real_total_length: {1:.5f}\n'
-                'total_max_width: {2:.5f}\n'
-                'real_total_max_width: {3:.5f}\n'
-                'total_average_width: {4:.5f}\n'
-                'real_total_average_width: {5:.5f}\n'
-                '\n'
-                .format(total_length, real_total_length, total_max_width, real_total_max_width, total_average_width, real_total_average_width))
-
-    with open("{0}{1}{2}_result_summary.txt".format(save_dir, distance, title), 'w') as f:
-        f.write('total_max_width: {0:.5f}\n'
-                'real_total_max_width: {1:.5f}\n'
-                '\n'
-                .format(total_max_width, real_total_max_width))
-        print(title,":", real_total_max_width, "\n")
-    #
+   ...
     return 0
 
 ###################################################################################################
@@ -141,19 +66,7 @@ if not os.path.exists(each_save_dir):
 
 img = cv2.imread(img_path)
 cv2.imwrite(each_save_dir + '{0}_00_original.jpg'.format(img_name), img)
-
-# img_yuv = cv2.cvtColor( cv2.imread(img_path), cv2.COLOR_BGR2YUV)
-# #--② 밝기 채널에 대해서 이퀄라이즈 적용
-# img_eq = img_yuv.copy()
-# img_eq[:,:,0] = cv2.equalizeHist(img_eq[:,:,0])
-# img_eq = cv2.cvtColor(img_eq, cv2.COLOR_YUV2BGR)
-
-# # #--③ 밝기 채널에 대해서 CLAHE 적용
-# # img_clahe = img_yuv.copy()
-# # clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8,8)) #CLAHE 생성
-# # img_clahe[:,:,0] = clahe.apply(img_clahe[:,:,0])           #CLAHE 적용
-# # img_clahe = cv2.cvtColor(img_clahe, cv2.COLOR_YUV2BGR)
-# cv2.imwrite(each_save_dir + '{0}_00_1_img_clahe.jpg'.format(img_name), img_eq)
+...
 
 img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 cv2.imwrite(each_save_dir + '{0}_01_0_grayscale.jpg'.format(img_name), img)
