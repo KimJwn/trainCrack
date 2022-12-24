@@ -40,16 +40,7 @@ def find_max(list):
 
 
 def direction_dictionary(row, col):
-    return {
-        'NW': [row - 1, col - 1 ],
-        'N' : [row - 1, col     ],
-        'NE': [row - 1, col + 1 ],
-        'E' : [row,     col + 1 ],
-        'SE': [row + 1, col + 1 ],
-        'S' : [row + 1, col     ],
-        'SW': [row + 1, col - 1 ],
-        'W' : [row,     col - 1 ]
-    }
+    return ...
 
 #중심픽셀을 제외한 반지름이 7부터 15인 꽉찬 흰 원 만드는 함수
 def circular_mask(radius):
@@ -59,8 +50,7 @@ def circular_mask(radius):
 
 
 def masking_circular_area(img, row, col, radius, mask):
-    crack_area_pixel_num = np.sum(np.multiply(mask, img[row - radius: row + radius + 1, col - radius: col + radius + 1]))
-    crack_area_pixel_num /= PIXEL_MAX_VALUE
+    ...
 
     return crack_area_pixel_num
 
@@ -295,7 +285,7 @@ def crack_length_func(total_chain_list):
 
 def direction_func(direction, LorR=-1):
     # print(direction)
-    d = direction_set.index(direction)
+    d = ...
     positive_d = positive_table[d]
     negative_d = negative_table[d]
     p_c = p_c_table[d]  # type: ignore
