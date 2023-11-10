@@ -1,5 +1,0 @@
-[default]
-entity = kau-aiclops
-project = wandb-test
-base_url = https://api.wandb.ai
-
